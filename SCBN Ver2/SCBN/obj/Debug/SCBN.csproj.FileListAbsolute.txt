@@ -1,0 +1,37 @@
+C:\Users\caioe\source\repos\SCBN\SCBN\bin\Debug\SCBN.exe.config
+C:\Users\caioe\source\repos\SCBN\SCBN\bin\Debug\SCBN.exe
+C:\Users\caioe\source\repos\SCBN\SCBN\bin\Debug\SCBN.pdb
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.csproj.AssemblyReference.cache
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.csproj.SuggestedBindingRedirects.cache
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\MainWindow.g.cs
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\App.g.cs
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN_MarkupCompile.cache
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN_MarkupCompile.lref
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\MainWindow.baml
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.g.resources
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.Properties.Resources.resources
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.csproj.GenerateResource.cache
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.csproj.CoreCompileInputs.cache
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.exe
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\SCBN.pdb
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\Window1.g.cs
+C:\Users\caioe\source\repos\SCBN\SCBN\obj\Debug\Window1.baml
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\bin\Debug\SCBN.exe.config
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\bin\Debug\SCBN.exe
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\bin\Debug\SCBN.pdb
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.csproj.AssemblyReference.cache
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.csproj.SuggestedBindingRedirects.cache
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\MainWindow.g.cs
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\Window1.g.cs
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\App.g.cs
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN_MarkupCompile.cache
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN_MarkupCompile.lref
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\MainWindow.baml
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\Window1.baml
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.g.resources
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.Properties.Resources.resources
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.csproj.GenerateResource.cache
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.csproj.CoreCompileInputs.cache
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.exe
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\SCBN.pdb
+C:\Users\caioe\source\repos\SCBN Ver2\SCBN\obj\Debug\GeneratedInternalTypeHelper.g.cs
